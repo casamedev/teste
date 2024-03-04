@@ -46,7 +46,7 @@ greenlet==3.0.3
 idna==3.6
 iniconfig==2.0.0
 ipykernel==6.29.0
-ipython==8.20.0
+ipython~=8
 jedi==0.19.1
 jsonschema==4.21.1
 jsonschema-specifications==2023.12.1
